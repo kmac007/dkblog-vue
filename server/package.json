@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
+    "csprng": "^0.1.2",
     "express": "^4.15.4",
     "mongoose": "^4.11.10",
     "sha1": "^1.1.1"
