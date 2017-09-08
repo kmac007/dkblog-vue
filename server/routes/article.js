@@ -70,3 +70,4 @@ router.get('/api/article', (req, res) => {
 })
 
 // 搜索文章
+module.exports = router
